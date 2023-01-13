@@ -1,5 +1,5 @@
 # Trybe
-# trybe-exercicios
+### trybe-exercicios
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Adryelle Felippe.
 [Meu Linkedin](https://www.linkedin.com/in/adryelle-felippe-1b3910197/), enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
