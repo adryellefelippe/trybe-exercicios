@@ -1,0 +1,56 @@
+.lista-ordenada{
+    background-color: rgb(255, 239, 98);
+}
+
+.par{
+    color: green;
+}
+
+.impar{
+    text-transform: uppercase;
+}
+
+.header{
+    color: red;
+}
+
+.italico{
+    font-size: 40px;
+    border: 1px solid BLACK;
+}
+
+li{
+    font-size: 20PX;
+}
+
+.li-italico{
+    font-weight: bold;
+}
+
+.other-color{
+    color: blue;
+}
+
+.java{
+    background-color: pink;
+}
+
+#stack{
+   color: orange; 
+}
+
+#w3{
+    color: green;
+}
+
+#mdn{
+    color: black;
+}
+
+#dev{
+    color: rgba(255, 233, 36, 0.774);
+}
+
+#trybe{
+    color: rgb(143, 224, 22);
+}
