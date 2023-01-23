@@ -1,3 +1,9 @@
-let age = 21;
+const myName = 'adryelle';
+const birthCity = 'jacareí';
+let birthYear = 2001;
 
-console.log(age);
+birthYear = 2030;
+
+console.log(myName);
+console.log(birthCity);
+console.log(birthYear);
